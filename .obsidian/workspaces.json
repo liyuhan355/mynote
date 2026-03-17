@@ -1,0 +1,238 @@
+{
+  "workspaces": {
+    "常用": {
+      "main": {
+        "id": "868cbf4c134a6a41",
+        "type": "split",
+        "children": [
+          {
+            "id": "1ea4527061fc08e3",
+            "type": "tabs",
+            "dimension": 62.48830682881197,
+            "children": [
+              {
+                "id": "f8a79cc1f86a83cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ToDo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "ToDo"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f3fb9f316505b10",
+            "type": "tabs",
+            "dimension": 37.51169317118802,
+            "children": [
+              {
+                "id": "a9309733cb4b525a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ToDo.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "ToDo"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b1051695b696843",
+        "type": "split",
+        "children": [
+          {
+            "id": "e04a82169875ab5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d35faeac2faadd4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "246a91a3255ca4d7",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "5dac315370deb1b1",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "e6784bd1fd6aee97",
+        "type": "split",
+        "children": [
+          {
+            "id": "3934deca86ec907c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "533a406809cec441",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f4ac13cc90e370d6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a20842190583784f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "258f1e2fac78018b",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "2d00ca65b66556e2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "ToDo.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "ToDo 的大纲"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "99508c8090c71fb8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10d8066e36a3535e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "ToDo.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "ToDo 的出链列表"
+                }
+              },
+              {
+                "id": "579fb8a99eac526b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "ToDo.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "ToDo 的反向链接列表"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 294.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:创建新数据库": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "f8a79cc1f86a83cb",
+      "mtime": "2025-12-19T17:19:30+08:00"
+    }
+  },
+  "active": "常用"
+}
