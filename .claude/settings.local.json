@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext \"E:/20260125to李宇涵/Synthetic Aperture Radar Signal Processing wit.pdf\" -)"
+    ]
+  }
+}

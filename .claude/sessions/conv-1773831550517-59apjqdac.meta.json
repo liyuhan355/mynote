@@ -1,0 +1,19 @@
+{
+  "id": "conv-1773831550517-59apjqdac",
+  "title": "Regenerate the chart or diagram",
+  "titleGenerationStatus": "success",
+  "createdAt": 1773831550517,
+  "updatedAt": 1773831825250,
+  "lastResponseAt": 1773831825250,
+  "sessionId": "00286b1f-1fb0-45f7-9d95-d9e0f22c4ce9",
+  "sdkSessionId": "00286b1f-1fb0-45f7-9d95-d9e0f22c4ce9",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

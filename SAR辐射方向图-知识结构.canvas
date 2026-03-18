@@ -1,0 +1,194 @@
+{
+  "nodes": [
+    {
+      "id": "a1b2c3d4e5f60001",
+      "type": "text",
+      "x": 400,
+      "y": -50,
+      "width": 400,
+      "height": 100,
+      "text": "# 第三章 SAR辐射方向图\n**SAR Radiation Pattern**",
+      "color": "6"
+    },
+    {
+      "id": "a1b2c3d4e5f60002",
+      "type": "text",
+      "x": 0,
+      "y": 100,
+      "width": 320,
+      "height": 200,
+      "text": "## 3.1 发射模式辐射方向图\n**Transmit Mode Pattern**\n\n- AM-PM信号特性\n- 傅里叶分解\n- 三种天线类型",
+      "color": "1"
+    },
+    {
+      "id": "a1b2c3d4e5f60003",
+      "type": "text",
+      "x": 400,
+      "y": 100,
+      "width": 320,
+      "height": 200,
+      "text": "## 3.2 三维空间域辐射方向图\n**3D Spatial Domain**\n\n- 雷达足迹\n- 斜距概念\n- 三维→二维简化",
+      "color": "2"
+    },
+    {
+      "id": "a1b2c3d4e5f60004",
+      "type": "text",
+      "x": 800,
+      "y": 100,
+      "width": 320,
+      "height": 200,
+      "text": "## 3.3 收发模式辐射方向图\n**Transmit-Receive Mode**\n\n- 接收模式分析\n- 双程辐射方向图\n- 雷达-目标组合",
+      "color": "3"
+    },
+    {
+      "id": "a1b2c3d4e5f60005",
+      "type": "text",
+      "x": 0,
+      "y": 380,
+      "width": 280,
+      "height": 180,
+      "text": "### 平面天线\n**Planar Antenna**\n\n- 波束宽度∝频率\n- 多普勒带：与频率无关\n- 发散角：arcsin(λ/D)\n- 无聚焦特性",
+      "color": "4"
+    },
+    {
+      "id": "a1b2c3d4e5f60006",
+      "type": "text",
+      "x": 320,
+      "y": 380,
+      "width": 280,
+      "height": 180,
+      "text": "### 抛物面天线\n**Parabolic Antenna**\n\n- 波束宽度：与频率无关\n- 多普勒带∝频率\n- 发散角：arctan(D/2xf)\n- 聚焦于焦距xf处",
+      "color": "4"
+    },
+    {
+      "id": "a1b2c3d4e5f60007",
+      "type": "text",
+      "x": 640,
+      "y": 380,
+      "width": 280,
+      "height": 180,
+      "text": "### 圆形天线\n**Circular Antenna**\n\n- 性质类似抛物面天线\n- 不同旁瓣特性\n- 焦点处相干叠加\n- 发散角：arcsin(D/2xf)",
+      "color": "4"
+    },
+    {
+      "id": "a1b2c3d4e5f60008",
+      "type": "text",
+      "x": 960,
+      "y": 380,
+      "width": 280,
+      "height": 180,
+      "text": "## 3.4 极化\n**Polarization**\n\n- 水平极化 (HH)\n- 垂直极化 (VV)\n- 交叉极化 (HV/VH)\n- 极化矩阵",
+      "color": "5"
+    },
+    {
+      "id": "a1b2c3d4e5f60009",
+      "type": "text",
+      "x": 0,
+      "y": 620,
+      "width": 400,
+      "height": 160,
+      "text": "## 关键公式\n\n**辐射方向图傅里叶分解：**\n$h_T = \\int_{-k}^{k} A_T(\\omega, k_u)\\exp(-j\\sqrt{k^2-k_u^2}\\,y)dk_u$\n\n**波束宽度：** $B = r\\sin\\theta_d$"
+    },
+    {
+      "id": "a1b2c3d4e5f60010",
+      "type": "text",
+      "x": 440,
+      "y": 620,
+      "width": 400,
+      "height": 160,
+      "text": "## 斜距概念\n\n**定义：** $X_s = \\sqrt{x^2 + z^2}$\n\n**意义：** 固定斜距的点经历相同相位延迟\n三维问题→二维斜距-方位平面"
+    },
+    {
+      "id": "a1b2c3d4e5f60011",
+      "type": "text",
+      "x": 880,
+      "y": 620,
+      "width": 360,
+      "height": 160,
+      "text": "## MATLAB算法\n\n- 模拟辐射方向图\n- 分析波束宽度\n- 可视化三维辐射模式\n- 不同天线类型对比",
+      "color": "6"
+    },
+    {
+      "id": "a1b2c3d4e5f60012",
+      "type": "group",
+      "x": -20,
+      "y": 340,
+      "width": 980,
+      "height": 240,
+      "label": "三种典型雷达天线",
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1b2c3d4e5f60001",
+      "fromNode": "a1b2c3d4e5f60001",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60002",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60002",
+      "fromNode": "a1b2c3d4e5f60001",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60003",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60003",
+      "fromNode": "a1b2c3d4e5f60001",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60004",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60004",
+      "fromNode": "a1b2c3d4e5f60002",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60005",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60005",
+      "fromNode": "a1b2c3d4e5f60002",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60006",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60006",
+      "fromNode": "a1b2c3d4e5f60002",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60007",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60007",
+      "fromNode": "a1b2c3d4e5f60003",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60010",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60008",
+      "fromNode": "a1b2c3d4e5f60004",
+      "fromSide": "right",
+      "toNode": "a1b2c3d4e5f60008",
+      "toSide": "left"
+    },
+    {
+      "id": "e1b2c3d4e5f60009",
+      "fromNode": "a1b2c3d4e5f60005",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60009",
+      "toSide": "top"
+    },
+    {
+      "id": "e1b2c3d4e5f60010",
+      "fromNode": "a1b2c3d4e5f60008",
+      "fromSide": "bottom",
+      "toNode": "a1b2c3d4e5f60011",
+      "toSide": "top"
+    }
+  ]
+}

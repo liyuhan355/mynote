@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研任务.md",
+                "file": "SAR辐射方向图-第三章总结.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "科研任务"
+              "title": "SAR辐射方向图-第三章总结"
+            }
+          }
+        ]
+      },
+      {
+        "id": "31a1d66c8e2cb6c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "734a81cf438a4441",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ]
@@ -134,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研任务.md",
+                "file": "SAR辐射方向图-第三章总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "科研任务 的大纲"
+              "title": "SAR辐射方向图-第三章总结 的大纲"
             }
           },
           {
@@ -199,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研任务.md",
+                "file": "SAR辐射方向图-第三章总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "科研任务 的反向链接列表"
+              "title": "SAR辐射方向图-第三章总结 的反向链接列表"
             }
           },
           {
@@ -246,13 +262,13 @@
   },
   "active": "f9ef63f25b292ce0",
   "lastOpenFiles": [
-    "地中海饮食结构.canvas",
-    "Zynq开发.md",
-    "Zynq杂记.md",
     "科研任务.md",
     "FPGA开发.md",
-    "readme.md",
     "ToDo.md",
+    "readme.md",
+    "Zynq杂记.md",
+    "Zynq开发.md",
+    "地中海饮食结构.canvas",
     "pic/科研任务/file-02-22-213630.png",
     "pic/科研任务/file-02-22-213553.png",
     "pic/科研任务/file-02-22-213514.png",
