@@ -23,6 +23,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "9e2db0960531626e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9baaacb6de5def82",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +256,11 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "f9ef63f25b292ce0",
+  "active": "9baaacb6de5def82",
   "lastOpenFiles": [
     "Zynq杂记.md",
     "科研任务.md",
