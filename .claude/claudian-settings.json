@@ -60,7 +60,7 @@
   "environmentVariables": "ANTHROPIC_AUTH_TOKEN: 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 ANTHROPIC_BASE_URL: https://integrate.api.nvidia.com\nANTHROPIC_MODEL: moonshotai/kimi-k2.5",
   "envSnippets": [
     {
-      "id": "snippet-1773830220719",
+      "id": "snippet-1773830601134",
       "name": "kimi",
       "description": "",
       "envVars": "ANTHROPIC_AUTH_TOKEN: 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 ANTHROPIC_BASE_URL: https://integrate.api.nvidia.com\nANTHROPIC_MODEL: moonshotai/kimi-k2.5"
@@ -74,7 +74,9 @@
   },
   "locale": "zh-CN",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {},
+  "claudeCliPathsByHost": {
+    "DESKTOP-DUKVPSI": "D:\\app_\\node\\node_global\\node_modules\\@anthropic-ai\\claude-code\\cli.js"
+  },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
