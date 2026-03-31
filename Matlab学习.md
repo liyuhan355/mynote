@@ -29,5 +29,21 @@ cssclasses:
 - `hold off`
 - `tiledlayout`该函数比 `subplot` 提供更多对标签和间距的控制。如在图窗窗口中创建 2×2 布局。每当您要某个绘图出现在下一区域中时，请调用 `nexttile`
 - 要创建脚本，请使用 `edit myfile` 命令；要使用 `edit` 命令创建新的实时脚本，请在文件名中包含 `.mlx` 扩展名
-- 行注释`%`，块注释`%{%}`
-
+- 行注释`%`，块注释`%{%}
+- `axis equal`是强制要求各个坐标轴采用完全相同的比例尺
+- 循环/条件语句
+```matlab
+计数器从1开始,n在每次执行中递增，直至达到 100
+for n = 1:100
+    f(n) = f(n-1) + f(n-2);
+end
+ 
+if num < 34
+   sz = 'low'
+elseif num < 67
+   sz = 'medium'
+else
+   sz = 'high'
+end
+```
+- 
