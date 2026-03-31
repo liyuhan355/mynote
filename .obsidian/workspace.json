@@ -6,7 +6,7 @@
       {
         "id": "03fabeb2555fe454",
         "type": "tabs",
-        "dimension": 79.09836065573771,
+        "dimension": 68.01266825019793,
         "children": [
           {
             "id": "c467e0e2035bf91e",
@@ -28,7 +28,7 @@
       {
         "id": "cbc4f2141c9fadfc",
         "type": "tabs",
-        "dimension": 20.901639344262296,
+        "dimension": 31.987331749802056,
         "children": [
           {
             "id": "5e0120aa83e52e12",
@@ -114,8 +114,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -124,8 +124,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -138,8 +138,7 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f4ac13cc90e370d6",
@@ -203,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研任务1.md",
+                "file": "Matlab学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "科研任务1 的出链列表"
+              "title": "Matlab学习 的出链列表"
             }
           },
           {
@@ -236,18 +235,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "FPGA开发.md"
+                "file": "Matlab学习.md"
               },
               "icon": "lucide-info",
-              "title": "FPGA开发的笔记属性"
+              "title": "Matlab学习的笔记属性"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,7 +261,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "5e0120aa83e52e12",
+  "active": "2d00ca65b66556e2",
   "lastOpenFiles": [
     "Zynq杂记.md",
     "Zynq开发.md",

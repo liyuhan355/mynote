@@ -6,43 +6,40 @@
         "type": "split",
         "children": [
           {
-            "id": "1ea4527061fc08e3",
+            "id": "03fabeb2555fe454",
             "type": "tabs",
-            "dimension": 62.48830682881197,
+            "dimension": 52.49406175771971,
             "children": [
               {
-                "id": "f8a79cc1f86a83cb",
+                "id": "c467e0e2035bf91e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ToDo.md",
+                    "file": "Matlab学习.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "ToDo"
+                  "title": "Matlab学习"
                 }
               }
             ]
           },
           {
-            "id": "7f3fb9f316505b10",
+            "id": "cbc4f2141c9fadfc",
             "type": "tabs",
-            "dimension": 37.51169317118802,
+            "dimension": 47.50593824228028,
             "children": [
               {
-                "id": "a9309733cb4b525a",
+                "id": "5e0120aa83e52e12",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ToDo.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "ToDo"
+                  "type": "claudian-view",
+                  "state": {},
+                  "icon": "bot",
+                  "title": "Claudian"
                 }
               }
             ]
@@ -77,7 +74,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "axi",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -102,7 +99,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 200
       },
       "right": {
         "id": "e6784bd1fd6aee97",
@@ -111,6 +108,7 @@
           {
             "id": "3934deca86ec907c",
             "type": "tabs",
+            "dimension": 38.333333333333336,
             "children": [
               {
                 "id": "533a406809cec441",
@@ -118,16 +116,53 @@
                 "state": {
                   "type": "calendar",
                   "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Calendar"
+                  "icon": "lucide-ghost",
+                  "title": "calendar"
+                }
+              },
+              {
+                "id": "044c5cd5945d6765",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "git-view"
+                }
+              },
+              {
+                "id": "58caaa14fc13b1fa",
+                "type": "leaf",
+                "state": {
+                  "type": "mermaid-toolbar-view",
+                  "state": {},
+                  "icon": "trident-custom",
+                  "title": "Mermaid Toolbar"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "f4ac13cc90e370d6",
             "type": "tabs",
+            "dimension": 31.470588235294116,
             "children": [
+              {
+                "id": "2d00ca65b66556e2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Matlab学习.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Matlab学习 的大纲"
+                }
+              },
               {
                 "id": "a20842190583784f",
                 "type": "leaf",
@@ -136,7 +171,7 @@
                   "state": {
                     "sortOrder": "frequency",
                     "useHierarchy": true,
-                    "showSearch": false,
+                    "showSearch": true,
                     "searchQuery": ""
                   },
                   "icon": "lucide-tags",
@@ -156,28 +191,13 @@
                   "icon": "lucide-archive",
                   "title": "添加笔记属性"
                 }
-              },
-              {
-                "id": "2d00ca65b66556e2",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "ToDo.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "ToDo 的大纲"
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "99508c8090c71fb8",
             "type": "tabs",
+            "dimension": 30.19607843137255,
             "children": [
               {
                 "id": "10d8066e36a3535e",
@@ -185,12 +205,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "ToDo.md",
+                    "file": "科研任务1.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "ToDo 的出链列表"
+                  "title": "科研任务1 的出链列表"
                 }
               },
               {
@@ -199,7 +219,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "ToDo.md",
+                    "file": "Matlab学习.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -209,29 +229,43 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "ToDo 的反向链接列表"
+                  "title": "Matlab学习 的反向链接列表"
+                }
+              },
+              {
+                "id": "3bca4ec1b7ccdb82",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "FPGA开发.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "FPGA开发的笔记属性"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 294.5
+        "width": 200
       },
       "left-ribbon": {
         "hiddenItems": {
           "switcher:打开快速切换": false,
           "graph:查看关系图谱": false,
           "canvas:新建白板": false,
-          "daily-notes:打开/创建今天的日记": false,
           "templates:插入模板": false,
           "command-palette:打开命令面板": false,
-          "bases:创建新数据库": false,
-          "workspaces:管理工作区布局": false
+          "workspaces:管理工作区布局": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-git:Open Git source control": false,
+          "claudian:Open Claudian": false
         }
       },
-      "active": "f8a79cc1f86a83cb",
-      "mtime": "2025-12-19T17:19:30+08:00"
+      "active": "5e0120aa83e52e12",
+      "mtime": "2026-04-01T01:11:42+08:00"
     }
   },
   "active": "常用"
