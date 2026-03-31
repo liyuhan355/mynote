@@ -58,14 +58,7 @@
   ],
   "persistentExternalContextPaths": [],
   "environmentVariables": "ANTHROPIC_AUTH_TOKEN: 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 ANTHROPIC_BASE_URL: https://integrate.api.nvidia.com\nANTHROPIC_MODEL: z-ai/glm5",
-  "envSnippets": [
-    {
-      "id": "snippet-1773831427471",
-      "name": "glm",
-      "description": "",
-      "envVars": "ANTHROPIC_AUTH_TOKEN: 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 ANTHROPIC_BASE_URL: https://integrate.api.nvidia.com\nANTHROPIC_MODEL: z-ai/glm5"
-    }
-  ],
+  "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
     "scrollUpKey": "w",
