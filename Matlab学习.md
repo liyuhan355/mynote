@@ -28,5 +28,5 @@ cssclasses:
 - `hold on`
 - `hold off`
 - `tiledlayout`该函数比 `subplot` 提供更多对标签和间距的控制。如在图窗窗口中创建 2×2 布局。每当您要某个绘图出现在下一区域中时，请调用 `nexttile`
-
+- 要创建脚本，请使用 `edit` 命令
 
