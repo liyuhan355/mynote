@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pdftotext \"E:/20260125to李宇涵/Synthetic Aperture Radar Signal Processing wit.pdf\" -)"
+      "Bash(pdftotext \"E:/20260125to李宇涵/Synthetic Aperture Radar Signal Processing wit.pdf\" -)",
+      "Read(//c/Users/HAN/.claude/plugins/cache/anthropic-agent-skills/document-skills/b0cbd3df1533/skills/docx/**)",
+      "Bash(npm list:*)"
     ]
   }
 }
