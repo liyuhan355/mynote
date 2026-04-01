@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matlab学习.md",
+                "file": "FPGA开发.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Matlab学习"
+              "title": "FPGA开发"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "axi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matlab学习.md",
+                "file": "FPGA开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Matlab学习 的大纲"
+              "title": "FPGA开发 的大纲"
             }
           },
           {
@@ -172,7 +172,8 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99508c8090c71fb8",
@@ -218,10 +219,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Matlab学习.md"
+                "file": "FPGA开发.md"
               },
               "icon": "lucide-info",
-              "title": "Matlab学习的笔记属性"
+              "title": "FPGA开发的笔记属性"
             }
           }
         ],
@@ -251,11 +252,11 @@
     "ToDo.md",
     "readme.md",
     "Matlab学习.md",
+    "科研任务.md",
     "FPGA开发.md",
     "SAR辐射方向图-知识结构.canvas",
     "SAR辐射方向图-第三章总结.md",
     "第一章 距离成像.md",
-    "科研任务.md",
     "地中海饮食结构.canvas",
     "pic/科研任务/file-02-22-213630.png",
     "pic/科研任务/file-02-22-213553.png",
