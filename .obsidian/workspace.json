@@ -6,7 +6,6 @@
       {
         "id": "03fabeb2555fe454",
         "type": "tabs",
-        "dimension": 62.616822429906534,
         "children": [
           {
             "id": "c467e0e2035bf91e",
@@ -21,23 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Matlab学习"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cbc4f2141c9fadfc",
-        "type": "tabs",
-        "dimension": 37.38317757009346,
-        "children": [
-          {
-            "id": "5e0120aa83e52e12",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
             }
           }
         ]
@@ -138,7 +120,8 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f4ac13cc90e370d6",
@@ -246,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,7 +244,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "2d00ca65b66556e2",
+  "active": "c467e0e2035bf91e",
   "lastOpenFiles": [
     "Zynq杂记.md",
     "Zynq开发.md",
