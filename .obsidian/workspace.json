@@ -6,7 +6,7 @@
       {
         "id": "03fabeb2555fe454",
         "type": "tabs",
-        "dimension": 52.49406175771971,
+        "dimension": 78.56377277599142,
         "children": [
           {
             "id": "c467e0e2035bf91e",
@@ -28,7 +28,7 @@
       {
         "id": "cbc4f2141c9fadfc",
         "type": "tabs",
-        "dimension": 47.50593824228028,
+        "dimension": 21.436227224008576,
         "children": [
           {
             "id": "5e0120aa83e52e12",
@@ -262,7 +262,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "5d35faeac2faadd4",
+  "active": "044c5cd5945d6765",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Matlab学习.md",
