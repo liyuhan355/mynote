@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e6784bd1fd6aee97",
@@ -229,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +246,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "044c5cd5945d6765",
+  "active": "c467e0e2035bf91e",
   "lastOpenFiles": [
     "FPGA开发.md",
     "Zynq杂记.md",
