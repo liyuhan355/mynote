@@ -6,7 +6,7 @@
       {
         "id": "03fabeb2555fe454",
         "type": "tabs",
-        "dimension": 68.01266825019793,
+        "dimension": 52.49406175771971,
         "children": [
           {
             "id": "c467e0e2035bf91e",
@@ -28,7 +28,7 @@
       {
         "id": "cbc4f2141c9fadfc",
         "type": "tabs",
-        "dimension": 31.98733174980206,
+        "dimension": 47.50593824228028,
         "children": [
           {
             "id": "5e0120aa83e52e12",
@@ -114,8 +114,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -138,7 +138,8 @@
               "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f4ac13cc90e370d6",
@@ -202,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matlab学习.md",
+                "file": "科研任务1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Matlab学习 的出链列表"
+              "title": "科研任务1 的出链列表"
             }
           },
           {
@@ -235,18 +236,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Matlab学习.md"
+                "file": "FPGA开发.md"
               },
               "icon": "lucide-info",
-              "title": "Matlab学习的笔记属性"
+              "title": "FPGA开发的笔记属性"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 530.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,14 +262,15 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "2d00ca65b66556e2",
+  "active": "5d35faeac2faadd4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Matlab学习.md",
+    "FPGA开发.md",
     "Zynq杂记.md",
     "Zynq开发.md",
     "ToDo.md",
     "readme.md",
-    "Matlab学习.md",
-    "FPGA开发.md",
     "SAR辐射方向图-知识结构.canvas",
     "SAR辐射方向图-第三章总结.md",
     "第一章 距离成像.md",
