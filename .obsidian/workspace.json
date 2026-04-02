@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA开发.md",
+                "file": "Matlab学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FPGA开发"
+              "title": "Matlab学习"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPGA开发.md",
+                "file": "Matlab学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "FPGA开发 的大纲"
+              "title": "Matlab学习 的大纲"
             }
           },
           {
@@ -218,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "FPGA开发.md"
+                "file": "Matlab学习.md"
               },
               "icon": "lucide-info",
-              "title": "FPGA开发的笔记属性"
+              "title": "Matlab学习的笔记属性"
             }
           }
         ],
@@ -247,8 +247,8 @@
   },
   "active": "c467e0e2035bf91e",
   "lastOpenFiles": [
-    "Zynq开发.md",
     "FPGA开发.md",
+    "Zynq开发.md",
     "Matlab学习.md",
     "Zynq杂记.md",
     "ToDo.md",
