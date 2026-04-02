@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zynq开发.md",
+                "file": "FPGA开发.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Zynq开发"
+              "title": "FPGA开发"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zynq开发.md",
+                "file": "FPGA开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Zynq开发 的大纲"
+              "title": "FPGA开发 的大纲"
             }
           },
           {
@@ -218,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zynq开发.md"
+                "file": "FPGA开发.md"
               },
               "icon": "lucide-info",
-              "title": "Zynq开发的笔记属性"
+              "title": "FPGA开发的笔记属性"
             }
           }
         ],
@@ -247,10 +247,10 @@
   },
   "active": "c467e0e2035bf91e",
   "lastOpenFiles": [
+    "Zynq开发.md",
     "FPGA开发.md",
     "Matlab学习.md",
     "Zynq杂记.md",
-    "Zynq开发.md",
     "ToDo.md",
     "readme.md",
     "科研任务.md",
