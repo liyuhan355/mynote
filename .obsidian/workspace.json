@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6784bd1fd6aee97",
@@ -248,12 +247,12 @@
   },
   "active": "c467e0e2035bf91e",
   "lastOpenFiles": [
-    "Matlab学习.md",
+    "readme.md",
     "FPGA开发.md",
     "Zynq开发.md",
+    "Matlab学习.md",
     "Zynq杂记.md",
     "ToDo.md",
-    "readme.md",
     "科研任务.md",
     "SAR辐射方向图-知识结构.canvas",
     "SAR辐射方向图-第三章总结.md",
