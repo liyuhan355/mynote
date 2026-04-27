@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA开发.md",
+                "file": "Zynq开发.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FPGA开发"
+              "title": "Zynq开发"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FPGA开发.md",
+                "file": "Zynq开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "FPGA开发 的大纲"
+              "title": "Zynq开发 的大纲"
             }
           },
           {
@@ -218,10 +218,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "FPGA开发.md"
+                "file": "Zynq开发.md"
               },
               "icon": "lucide-info",
-              "title": "FPGA开发的笔记属性"
+              "title": "Zynq开发的笔记属性"
             }
           }
         ],
@@ -246,11 +246,11 @@
   },
   "active": "c467e0e2035bf91e",
   "lastOpenFiles": [
-    "readme.md",
+    "Zynq杂记.md",
     "FPGA开发.md",
+    "readme.md",
     "Zynq开发.md",
     "Matlab学习.md",
-    "Zynq杂记.md",
     "ToDo.md",
     "科研任务.md",
     "SAR辐射方向图-知识结构.canvas",
