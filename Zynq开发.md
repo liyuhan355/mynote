@@ -247,7 +247,7 @@ flowchart TD
 mindmap
     PS和PL数据交互方式
         少量数据
-            AXI GPIO IP核子
+            AXI GPIO IP核
             自定义带AXI4-Lite接口的IP核
             BRAM IP核
         大量数据
