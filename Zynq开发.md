@@ -243,6 +243,8 @@ flowchart TD
  - BRAM的深度无法在控制器或者BRAM的IP核中指定，必须在Address Editor中修改
  - 自定义IP核的引脚整体封装成Bus Interface，封装后的引脚参数要与对应IP核的参数保持一致
  - Ultra RAM是超高速RAM，适用于需要大容量片上缓冲的场景（如视频#处理、高速数据流和机器学习等），尤其在MPSoc中与Block RAM互补使用（注：ZYNQ芯片中没有URAM，仅MPSoc的部分芯片中有）
+ - 在使用ip核时要修改端口参数为MASTER_TYPE类型
+ - 另外修改复位信号的端口参数，极性为低电平有效
 ```mermaid
 mindmap
     PS和PL数据交互方式
