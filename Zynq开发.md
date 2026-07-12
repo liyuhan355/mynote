@@ -318,3 +318,7 @@ mindmap
 - 封装接口可以自定义接口，详见教程。
 ## AXI4-Stream Video
 - AXI4-Stream Video接口是基于AXI4-Stream接口，针对视频数据传输进行优化和定义的接口，主要用于视频像素数据、帧开始（SOF：Start of Frame）和行结束（EOL：End of Line ）信号的传输
+- Slave：video data（tdata）、valid、ready、sof（tuser）、eol（tlast）
+- Master：video data（tdata）、valid、ready、sof（tuser）、eol（tlast）
+- 不存在TKEEP、TSTRB，若连接接口存在，可以赋值为1
+- tuser得bit0定义帧的开始，其余位无关
