@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -96,8 +98,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -116,8 +118,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -140,7 +142,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Zynq开发 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -221,7 +223,7 @@
                 "file": "Zynq开发.md"
               },
               "icon": "lucide-info",
-              "title": "Zynq开发的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -240,8 +242,7 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "claudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c467e0e2035bf91e",
